@@ -1,6 +1,6 @@
 # Eyepiece Manual and Scripts
 
-Once I figure out to use VLC or something else to stream data from the camera over Wi-Fi I'll post it here so you won't need some silly app just to view the telescope remotely. Work in progress!
+Once I figure out how to use VLC or something else to stream data from the camera over Wi-Fi I'll post it here so you won't need some silly app just to view the telescope remotely. Work in progress!
 
 ---
 
